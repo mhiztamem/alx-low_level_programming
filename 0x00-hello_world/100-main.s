@@ -2,7 +2,7 @@
 	.text
 	.section	.rodata
 .LC0:
-	.string	"Intel syntax print"
+	.string	"ALX SCHOOL IS AWESOME"
 	.text
 	.globl	main
 	.type	main, @function

@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
@@ -6,6 +7,6 @@
  */
 int main(void)
 {
-	printf("Intel syntax print");
-	return(0);
+	printf("ALX SCHOOL IS AWESOME");
+	return (0);
 }

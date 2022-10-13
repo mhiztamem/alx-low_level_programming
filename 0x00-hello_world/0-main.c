@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-	printf("Holberton School");
+	printf("ALX School is the Best");
 	return (0);
 }

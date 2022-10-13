@@ -3,10 +3,10 @@
 /**
  * main - Entry point
  *
- * Return: always 0 (success)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	printf("ALX IS GOOD");
-	return (0);
-}	
+	printf("ALX is Good");
+		return (0);
+}

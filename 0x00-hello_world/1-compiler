@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c main.c > {main.c::-2}".o"
+gcc -c 1-main.c > 1{main.c::-2}".o"

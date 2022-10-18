@@ -7,14 +7,5 @@
  */
 int main(void)
 {
-	char myAlpha;
-
-	myAlpha = 'a';
-
-	while (myAlpha <= 'z')
-	{
-		putchar(myAlpha);
-		myAlpha++;
-	}
+	print_alphabet();
 	return (0);
-}

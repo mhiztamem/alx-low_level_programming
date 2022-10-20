@@ -20,11 +20,11 @@ int largest_number(int a, int b, int c)
 	printf("Enter third number: %d", c);
 	scanf("%d", &c);
 
-	if (a > b && b > c)
+	if (a >= b && b >= c)
 	{
 		largest_number = a;
 	}
-	else if (b > a && a > c)
+	else if (b => a && a >= c)
 	{
 		largest_number = b;
 	}

@@ -17,7 +17,7 @@ void print_array(int *a, int n)
 	while (b < n)
 	{
 		printf("%d", a[b]);
-		if (a < (n - 1))
+		if (b < (n - 1))
 			printf(", ");
 		b++;
 	}

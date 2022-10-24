@@ -11,7 +11,7 @@ void rev_string(char *s)
 {
 	int a;
 	int b;
-	char str[500];
+	char str[446];
 
 	a = 0;
 	b = 0;

@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include "main.h"
 /**
- * _strpbrk - searchs a string for any of a set of bytes
+ * _strspn - searchs a string for any of a set of bytes
  *
  * @s: the string to search
  * @accept: the bytes to search for
@@ -13,6 +13,7 @@
 unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int i, z, count, checker;
+
 	i = 0;
 	z = 0;
 	checker = 0;

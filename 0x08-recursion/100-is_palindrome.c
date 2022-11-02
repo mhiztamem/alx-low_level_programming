@@ -12,6 +12,7 @@ int count_string(char *s);
 int is_palindrome(char *s)
 {
 	int count;
+
 	count = 0;
 	if (!(*s))
 		return (1);
